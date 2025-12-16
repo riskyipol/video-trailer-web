@@ -14,4 +14,4 @@ menggunakan HTML, CSS, dan JavaScript.
 - JavaScript
 
 ## Demo
-https://username.github.io/roblox-trailer-web/
+https://riskyipol.github.io/video-trailer-web/
